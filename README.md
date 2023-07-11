@@ -1,1 +1,1 @@
-# Blogish
+# Blogable
